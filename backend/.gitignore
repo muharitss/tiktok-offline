@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local database
+*.db
+*.sqlite
+*.sqlite3
+
+# Local download queue / state
+downloaded.txt
+
+# Local testing URLs
+urls.txt
+
+# Environment variables / secrets
+.env
+.env.*
+
+# Logs
+*.log
